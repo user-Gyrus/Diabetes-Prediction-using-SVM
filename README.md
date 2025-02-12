@@ -1,6 +1,6 @@
 # Diabetes-Prediction-SVM
 In this project, Female patients who have Diabetes are diagnosed using the Support Vector machine, a machine learning model. 
-This model has been trained using a dataset from the Kaggle, the site numerous datasets which is set to use.
+This model has been trained using a dataset from the Kaggle, the site houses numerous datasets which is set to use.
 After training the Linear SVM model, Dimensionality Reduction is performed on this model, for better results by reducing the number of features to two.
 By this way, the graph can be plotted between the input features and the output features, and it can be seen in the graph in the code section.
 
